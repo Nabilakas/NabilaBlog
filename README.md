@@ -8,7 +8,7 @@
 </p>
 
 ##To Run
-1) copy .en.example to .env
+1) copy .env.example to .env
 
 2) configure database
 
